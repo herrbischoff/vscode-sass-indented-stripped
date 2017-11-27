@@ -1,0 +1,1 @@
+# vscode-sass-indented-stripped
